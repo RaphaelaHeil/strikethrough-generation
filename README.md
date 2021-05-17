@@ -1,4 +1,7 @@
-# Synthetic Strikethrough Generation
+# Synthetic Strikethrough Generation  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4767063.svg)](https://doi.org/10.5281/zenodo.4767063)
+
 
 This package generates synthetic strikethrough and applies it to a given word image. Strikethrough strokes are generated based on image statistics.
 
@@ -13,6 +16,9 @@ MIT License, see [LICENSE](LICENSE) for details.
 
 ## Citation
 If you find this work useful, please consider citing this repository or the related paper:
+
+Repository DOI: [https://doi.org/10.5281/zenodo.4767063](https://doi.org/10.5281/zenodo.4767063)
+
 ```
 @INPROCEEDINGS{heil2021strikethrough,
   author={Heil, Raphaela and Vats, Ekta and Hast, Anders},
