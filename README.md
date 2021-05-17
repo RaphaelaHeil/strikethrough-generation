@@ -17,8 +17,15 @@ MIT License, see [LICENSE](LICENSE) for details.
 ## Citation
 If you find this work useful, please consider citing this repository or the related paper:
 
-Repository DOI: [https://doi.org/10.5281/zenodo.4767063](https://doi.org/10.5281/zenodo.4767063)
-
+```
+@article{raphaela heil_2021,
+title={RaphaelaHeil/strikethrough-generation: Release for publication},
+DOI={10.5281/zenodo.4767063},
+publisher={Zenodo},
+author={Raphaela Heil},
+year={2021},
+month={May}}
+```
 ```
 @INPROCEEDINGS{heil2021strikethrough,
   author={Heil, Raphaela and Vats, Ekta and Hast, Anders},
