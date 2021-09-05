@@ -27,10 +27,18 @@ year={2021},
 month={May}}
 ```
 ```
-@INPROCEEDINGS{heil2021strikethrough,
-  author={Heil, Raphaela and Vats, Ekta and Hast, Anders},
-  booktitle={2021 International Conference on Document Analysis and Recognition (ICDAR)},
-  title={{Strikethrough Removal from Handwritten Words Using CycleGANs}},
-  year={2021},
-  pubstate={to appear}}
+@InProceedings{10.1007/978-3-030-86337-1_38,
+author="Heil, Raphaela
+and Vats, Ekta
+and Hast, Anders",
+editor="Llad{\'o}s, Josep
+and Lopresti, Daniel
+and Uchida, Seiichi",
+title="Strikethrough Removal from Handwritten Words Using CycleGANs",
+booktitle="Document Analysis and Recognition -- ICDAR 2021",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="572--586",
+}
 ```
